@@ -1,7 +1,7 @@
 import cv2 as cv
 from PIL import Image
 count = [0,0,0,0]
-img = Image.open("signaturecentroid-50-36.png").convert("L")
+img = Image.open("signaturecentroid-109-47.png").convert("L")
 width,height = img.size
 cx = 50
 cy = 36
